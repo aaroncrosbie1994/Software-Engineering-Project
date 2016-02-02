@@ -1,0 +1,119 @@
+
+
+
+
+BN002/013/104 Year 2 Software Engineering and Testing
+
+
+
+Assessment 1: Feasibility Study
+
+
+
+
+Submitted by: 
+Gelmis S. Bartulis B00080902
+Aaron Crosbie B00082567
+
+
+
+Submission date
+
+
+
+
+
+
+
+
+
+
+Declaration 
+
+
+I herby certify that this material, which I now submit for assessment on the programme of study leading to the award of Ordinary Degree in Computing in the Institute of Technology Blanchardstown, is entirely my own work except where otherwise stated. 
+
+
+
+Author:  __________________________      		Dated: _____________
+Author:  __________________________      		Dated: _____________		
+
+ 
+Table of Contents 
+ 
+Title								The Book a Willy	
+Client							Travelling users
+The Project (1 paragraph)
+
+The project itself is to be created as a ticket booking system. The main idea is the ability for the user to book a ticket from one location to another, selecting the mode of transport and paying for the ticket once it has been booked. The project will be written with “IntelliJ IDEA”. Keeping in mind that persistent storage is key, possibly through the use of batch files. The main components of the program would be; user registration, user login, selection of transport method & journey start/end points & calculation of overall cost. 
+ 
+Benefits (max 1/2 page)
+The users would have a more simple way to book tickets for traveling, as if “hassle - free”. This would benefit small / big companies, save finance and time for the user itself.
+Scope (max 1/2 page)
+The functionality of the project/software will options to register into the system, Or log in with an existing account. Then the user will be asked for the desirable location and will be transferred to the screen to book the tickets. This includes GUI and batch files, so far.
+Scope & Functionality of the project should be clear so that client and developer have same expectations… 
+
+ Walkthrough Scenarios (max 1 page)
+Who is going to use/interact with the software /system and how will they use it. 
+	e.g. for vending machine user and serviceman… 
+
+
+
+
+Preliminary Software Requirements Analysis: (max 2 pages)
+
+Functional Requirements:
+These are statements of services the system should provide – how the system should react to particular inputs and how it should behave in particular situations. Explicitly state what the system should do 
+
+Can approach them from a user and system point of view. 
+User – high level abstract requirements, readable by someone with no detailed technical knowledge. 
+System – detailed description of what the system should do. Targeted at technical staff and project managers…   
+
+Non-functional Requirements:
+These are constraints on the service or functions offered by the system e.g. timing constraints 
+
+Technical Requirements and Feasibility:
+System models – UML 
+Development language – Java
+Persistent storage – database?
+Interface  & Software / Hardware APIs
+Deliverables: (max 2 pages)
+
+Management Deliverables:
+Feasibility Study & Project plan
+Analysis and Design Documentation
+Source Code
+Testing documentation
+
+Technical Deliverables:
+ Product deliverables – database, UI etc. 
+
+Software Development Process: (max 1 page)
+What process you are proposing to use and why. (modified Waterfall!)
+
+
+
+
+
+Risk Analysis: (max 1/2 page)
+•	Inconsistent requirements (interpretation of requirements)
+•	Interface problems
+•	Technology availability 
+•	Human resources
+Visibility Plan (max 1/2 page)
+Your visibility to the client – communication with the client (meetings, reports etc.)
+Also for the development group – communication between team members,  meetings, project diary
+
+Preliminary Project Plan (max 1 page)
+
+Identifying the activities, milestones and deliverables produced by a project. 
+•	guides the development towards project goals
+•	consider timing/schedule issues and constraints
+•	cost estimation is a related activity – cost of resources etc. 
+
+The project schedule should be illustrated in the form of an excel gantt chart and show the tasks and corresponding timeline for the group members.
+
+Conclusion (1-2 paragraphs)
+Your conclusions and recommendations 
+
+Additional sections: Table of Contents, executive summary 
